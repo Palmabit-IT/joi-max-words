@@ -1,0 +1,25 @@
+{
+  "name": "@palmabit/joi-max-words",
+  "description": "Joi extension for max words",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "keywords": [
+    "schema",
+    "validation",
+    "joi",
+    "extension",
+    "words"
+  ],
+  "author": "Palmabit Srl<hello@palmabit.com>",
+  "peerDependencies": {
+    "joi": ">=10.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "joi": "11.x.x"
+  }
+}
