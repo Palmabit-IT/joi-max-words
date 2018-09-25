@@ -5,6 +5,12 @@
 
 Joi extensions for max words.
 
+# Install
+
+```js
+npm install @palmabit/joi-max-words
+```
+
 # Usage
 
 Usage is a two steps process. First, a schema is constructed using the provided types and constraints:
