@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/Palmabit-IT/joi-max-words.svg?branch=master)](https://travis-ci.org/Palmabit-IT/joi-max-words)
+
 # joi-max-words
 
 Joi extensions for max words.
