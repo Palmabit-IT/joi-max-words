@@ -1,9 +1,11 @@
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 [![Build Status](https://travis-ci.org/Palmabit-IT/joi-max-words.svg?branch=master)](https://travis-ci.org/Palmabit-IT/joi-max-words)
 
-# joi-max-words
+# DEPRECATED
 
-Joi extensions for max words.
+This is no longer supported, please use https://github.com/Palmabit-IT/joi-words-extension instead.
 
 # Install
 
